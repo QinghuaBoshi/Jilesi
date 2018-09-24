@@ -1,19 +1,15 @@
+<p align="center">
 # 被学诚吞噬灵魂的极乐寺女孩
+</p>
 
 
 
 
 <p align="center">
 ```diff
-+ 毁我佛法者, 著我佛衣人
++ 毁我佛法者，著我佛衣人
 ```
 </p>
-
-```diff
-+ 汉字this will be highlighted in green
-- this will be highlighted in red
-```
-
 
 知道极乐寺，是在学诚事件（学诚卷入性侵极乐寺6位比丘尼丑闻曝光）后。
 
