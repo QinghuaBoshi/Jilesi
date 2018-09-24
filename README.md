@@ -3,8 +3,10 @@
 
 
 
-<p align="center"> 
-<font color ="green"> 毁我佛法者, 著我佛衣人 </font>
+<p align="center">
+```diff
++ 毁我佛法者, 著我佛衣人
+```
 </p>
 
 
