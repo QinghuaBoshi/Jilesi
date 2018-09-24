@@ -10,7 +10,7 @@
 </p>
 
 ```diff
-+ this will be highlighted in green
++ 汉字this will be highlighted in green
 - this will be highlighted in red
 ```
 
