@@ -9,6 +9,10 @@
 ```
 </p>
 
+```diff
++ this will be highlighted in green
+- this will be highlighted in red
+```
 
 
 知道极乐寺，是在学诚事件（学诚卷入性侵极乐寺6位比丘尼丑闻曝光）后。
